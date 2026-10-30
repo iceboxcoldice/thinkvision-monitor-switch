@@ -1,0 +1,8 @@
+# Binaries and build artifacts
+monitor_usb_sync
+*.o
+*.swp
+*.DS_Store
+
+# Logs
+*.log
